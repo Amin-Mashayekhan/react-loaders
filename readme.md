@@ -7,7 +7,7 @@ Lightweight wrapper around [Loaders.css](https://github.com/ConnorAtherton/loade
 ## Install
 
 ```
-npm install --save react-loaders loaders.css
+npm install --save typescript-loaders loaders.css
 ```
 
 
