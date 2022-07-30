@@ -1,4 +1,4 @@
-declare module 'react-loaders' {
+declare module 'typescript-loaders' {
   import * as React from "react"
 
   export type LoaderType =
