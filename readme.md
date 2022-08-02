@@ -1,4 +1,4 @@
-# React Loaders
+# Typescript Loaders
 
 Lightweight wrapper around [Loaders.css](https://github.com/ConnorAtherton/loaders.css).
 
@@ -16,7 +16,7 @@ npm install --save typescript-loaders loaders.css
 Require the component.
 
 ```js
-var Loader = require('react-loaders').Loader;
+var Loader = require('typescript-loaders').Loader;
 // also available as `default`
 
 function renderLoader() {
