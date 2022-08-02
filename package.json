@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Amin-Mashayekhan/react-loaders.git"
+    "url": "git+ssh://git@github.com/Amin-Mashayekhan/typescript-loaders.git"
   },
   "author": "Jon Jaques <jaquers@gmail.com>",
   "license": "MIT",
@@ -51,7 +51,7 @@
     "classnames": "^2.2.3"
   },
   "bugs": {
-    "url": "https://github.com/Amin-Mashayekhan/react-loaders/issues"
+    "url": "https://github.com/Amin-Mashayekhan/typescript-loaders/issues"
   },
-  "homepage": "https://github.com/Amin-Mashayekhan/react-loaders#readme"
+  "homepage": "https://github.com/Amin-Mashayekhan/typescript-loaders#readme"
 }
